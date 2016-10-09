@@ -1,0 +1,11 @@
+libebur128: LibEBUR128 (A library implementing the EBU R128 loudness standard)
+libebur128:
+libebur128: libebur128 is a library that implements the EBU R 128 standard for
+libebur128: loudness normalisation.
+libebur128: All source code is licensed under the MIT license. 
+libebur128:
+libebur128:
+libebur128:
+libebur128:
+libebur128:
+libebur128: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
